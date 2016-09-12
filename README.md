@@ -1,6 +1,6 @@
 ### A react video player
 
-1. cloen the repo
+1. clone the repo
 2. npm install
 3. npm start
 
