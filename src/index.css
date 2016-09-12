@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+body {
+  background-color: #F9F9F9;
+}
+.content {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.content video {
+  width: 100%;
+}

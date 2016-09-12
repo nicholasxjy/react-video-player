@@ -1,0 +1,36 @@
+.ry-video-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 8px 15px;
+  color: #505050;
+}
+.control-left, .control-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+.ry-video-button {
+  cursor: pointer;
+}
+.control-time {
+  padding-left: 10px;
+  font-size: 12px;
+  color: #747474;
+}
+.control-progress, .control-volume {
+  display: flex;
+  align-items: center;
+  padding-right: 15px;
+}
+.control-volume  {
+  padding-left: 10px;
+  max-width: 120px;
+  width: 100px;
+}
+.control-progress {
+  flex-grow: 4;
+  display: flex;
+  align-items: center;
+}
