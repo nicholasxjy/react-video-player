@@ -28,3 +28,6 @@ export default class App extends Component {
 }
 
 ```
+
+#### Screen Shot
+![screen shot](./src/assets/screen-shot.png)
